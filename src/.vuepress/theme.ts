@@ -141,6 +141,11 @@ export default hopeTheme({
         },
 
         // 设置水印
-        // watermark: true,
+        // watermark: {
+        //     enabled: true,
+        //     watermarkOptions: {
+        //         content: "等等不等等"
+        //     }
+        // }
     },
 });
