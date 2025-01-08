@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://dengdengbudengdeng.github.io/django-rest-framework-docs/sitemap.xml
