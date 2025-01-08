@@ -141,6 +141,6 @@ export default hopeTheme({
         },
 
         // 设置水印
-        watermark: true,
+        // watermark: true,
     },
 });
